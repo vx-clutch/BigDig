@@ -21,3 +21,11 @@ This pack’s main feature is that all ores spawn at all y-levels and in large v
 # Download
 
 You can download the zip from here. Then you can go to your launcher of choice and import the mod pack. This is already configured to play on the server; you just have to choose the options you like..
+
+# Rules
+
+* No stealing
+* No grefing
+* You must pay for items at the shops in spawn
+* Shops must be at spawn
+* You base must be more than 100 blocks away from spawn, and no more thatn 1250 blocks away.
